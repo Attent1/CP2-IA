@@ -42,3 +42,5 @@ Restrições
 Empresa_MeEppMei
 
 Score
+
+Utilizar margemBruta e ativoCirculante para classificação
